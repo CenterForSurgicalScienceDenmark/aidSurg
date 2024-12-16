@@ -1,0 +1,22 @@
+covariateId,covariateName,analysisId,conceptId
+-11,[CUSTOM]Unknown Alcohol consumption,-1,0
+-21,[CUSTOM]Unknown ASA Score,-2,0
+-31,[CUSTOM]Body Mass Index by algorithm <=18.5,-3,0
+-32,[CUSTOM]Body Mass Index by algorithm >18.5  <=25,-3,0
+-33,[CUSTOM]Body Mass Index by algorithm >25 <=30,-3,0
+-34,[CUSTOM]Body Mass Index by algorithm >30 <=35,-3,0
+-35,[CUSTOM]Body Mass Index by algorithm >35,-3,0
+-36,[CUSTOM]Unknown Body Mass Index by algorithm,-3,0
+-41,[CUSTOM]Unknown WHO Performance status,-4,0
+-51,[CUSTOM]Clinical T0-T2 Category,-5,0
+-52,[CUSTOM]Clinical T3-T4 Category,-5,0
+-53,[CUSTOM]Clinical TX Category,-5,0
+-54,[CUSTOM]Missing cT Category,-5,0
+-71,[CUSTOM]Clinical M0 Category,-7,0
+-72,[CUSTOM]Clinical M1 Category,-7,0
+-73,[CUSTOM]Clinical MX Category,-7,0
+-74,[CUSTOM]Missing cM category,-7,0
+-81,[CUSTOM]Smoking status 1 - Smoker ,-8,0
+-82,[CUSTOM]Smoking status 2 - Ex-smoker,-8,0
+-83,[CUSTOM]Smoking status 3 - Never smoked,-8,0
+-84,[CUSTOM]Unknown Smoking status,-8,0

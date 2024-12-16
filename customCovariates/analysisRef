@@ -1,0 +1,8 @@
+analysisId,analysisName,domainId,startDay,endDay,isBinary,missingMeansZero
+-1,[CUSTOM]Unknown Alcohol consumption,Measurement,0,0,Y,Y
+-2,[CUSTOM]Unknown ASA Score,Measurement,0,0,Y,Y
+-3,[CUSTOM]Body mass index (BMI),Measurement,0,0,Y,Y
+-4,[CUSTOM]Unknown WHO Performance Status,Measurement,0,0,Y,Y
+-5,[CUSTOM]Clinical Grouped T Category,Condition,0,0,Y,Y
+-7,[CUSTOM]Clinical M Category,Condition,0,0,Y,Y
+-8,[CUSTOM]Smoking status,Observation,0,0,Y,Y
