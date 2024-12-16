@@ -1,5 +1,5 @@
 # Aid-Surg
-Companion GitHub repo for: xxxx
+Companion GitHub repo for: **Development, external validation and clinical implementation of an AI-based prediction model based on four national registries in patients undergoing colorectal cancer surgery**
 
 This repository contains custom definitions for covariates ([cohort covariates](http://ohdsi.github.io/FeatureExtraction/articles/CreatingCovariatesBasedOnOtherCohorts.html)), based upon data transformed to the [Observational Medical Outcomes Partnership Common Data Model](https://ohdsi.github.io/CommonDataModel/index.html) and code for custom defined covariatest to develop the prediction model Aid-Surg.
 
